@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Outputs / artifacts
+output/
+archive/
+*.xlsx
+
+# IDEs / Editors
+.vscode/
+.idea/
+
+# Other
+*.bak
+*.swp
+*.tmp
+
